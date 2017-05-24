@@ -5,3 +5,5 @@ Data range from Jan.1993 to Jan.2017
 239 counties data are available.
 
 A python script is used to merge all the data into one csv file.
+
+This package contains four R scripts, one python script, and two data files.
